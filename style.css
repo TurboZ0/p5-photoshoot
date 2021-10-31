@@ -1,0 +1,21 @@
+html, body {
+    margin: 0;
+    padding: 0;
+  }
+  
+  #button1 {
+    height: 40px;
+    width: 200px;
+    background-color: aqua;
+    color: blue;
+    font-size: 20px;
+    box-shadow: 5px 5px 15px;
+  }
+  
+  #button2 {
+    height: 30px;
+    width: 120px;
+    background-color: green;
+    color: lime;
+    box-shadow: 5px 5px 10px;
+  }
